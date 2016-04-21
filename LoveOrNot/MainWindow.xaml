@@ -1,0 +1,14 @@
+﻿<Window x:Class="LoveOrNot.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LoveOrNot"
+        mc:Ignorable="d"
+        Title="Ромашка 3000" Height="221" Width="525" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Label x:Name="Result_Label" Content="Любит" HorizontalAlignment="Left" VerticalAlignment="Top" Width="517" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="96" Height="131"/>
+        <Button x:Name="Go_Button" Content="Гадай!" Margin="10,136,10,10" FontSize="14.667" FontWeight="Bold" Click="Go_Button_Click"/>
+
+    </Grid>
+</Window>

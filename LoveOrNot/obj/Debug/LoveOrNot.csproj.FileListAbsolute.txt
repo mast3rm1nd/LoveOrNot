@@ -1,0 +1,12 @@
+E:\Dropbox\!Coding\All_in_one\LoveOrNot\LoveOrNot\obj\Debug\MainWindow.g.cs
+E:\Dropbox\!Coding\All_in_one\LoveOrNot\LoveOrNot\obj\Debug\App.g.cs
+E:\Dropbox\!Coding\All_in_one\LoveOrNot\LoveOrNot\obj\Debug\MainWindow.baml
+E:\Dropbox\!Coding\All_in_one\LoveOrNot\LoveOrNot\obj\Debug\LoveOrNot.Properties.Resources.resources
+E:\Dropbox\!Coding\All_in_one\LoveOrNot\LoveOrNot\obj\Debug\LoveOrNot.csproj.GenerateResource.Cache
+E:\Dropbox\!Coding\All_in_one\LoveOrNot\LoveOrNot\bin\Debug\LovesOrNot.exe
+E:\Dropbox\!Coding\All_in_one\LoveOrNot\LoveOrNot\bin\Debug\LovesOrNot.pdb
+E:\Dropbox\!Coding\All_in_one\LoveOrNot\LoveOrNot\obj\Debug\LovesOrNot_MarkupCompile.cache
+E:\Dropbox\!Coding\All_in_one\LoveOrNot\LoveOrNot\obj\Debug\LovesOrNot_MarkupCompile.lref
+E:\Dropbox\!Coding\All_in_one\LoveOrNot\LoveOrNot\obj\Debug\LovesOrNot.g.resources
+E:\Dropbox\!Coding\All_in_one\LoveOrNot\LoveOrNot\obj\Debug\LovesOrNot.exe
+E:\Dropbox\!Coding\All_in_one\LoveOrNot\LoveOrNot\obj\Debug\LovesOrNot.pdb

@@ -1,0 +1,2 @@
+# LoveOrNot
+Electronical divination.
